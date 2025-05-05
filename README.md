@@ -65,7 +65,7 @@ This Streamlit app connects to a MySQL database and provides a secure login to m
 
 Activity 6
 ![Screenshot 2025-05-05 073531](https://github.com/user-attachments/assets/81d8cb8e-864e-4b0a-8a71-73de9acd38b7)
+![Screenshot 2025-05-05 074503](https://github.com/user-attachments/assets/87005659-c49f-414a-96b6-c3e57e4273ea)
 
-![Screenshot 2025-05-05 071538](https://github.com/user-attachments/assets/f1e3a04b-c3f8-46ac-af0c-d3fddbb9156c)
 
 To create this it uses OpenCV to capture real-time webcam video, letting users apply filters like grayscale, Canny edge detection, or Gaussian blur, with adjustable thresholds via sidebar sliders. Users can also take a snapshot of the current frame and save it as an image. The app combines live video processing with interactive controls for an engaging computer vision demo.
